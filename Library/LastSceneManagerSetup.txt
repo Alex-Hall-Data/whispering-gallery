@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Ring.unity
+- path: Assets/Ellipse.unity
   isLoaded: 1
   isActive: 1
