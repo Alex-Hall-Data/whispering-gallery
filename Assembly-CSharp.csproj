@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4991377A-4B4D-C25C-976A-D45B6681F876}</ProjectGuid>
+    <ProjectGuid>{3E894F9F-7A63-EAB3-E93B-0D8CDE702F85}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\ParticleController.cs" />
+     <Compile Include="Assets\Scripts\RingParticleController.cs" />
      <Compile Include="Assets\Scripts\ball_manager.cs" />
      <Compile Include="Assets\Scripts\test_ball.cs" />
  <Reference Include="UnityEngine.UI">
